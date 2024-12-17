@@ -23,7 +23,7 @@ nav {
   background-color: #9a9aa8;
   width: 100%;
   margin-top: 0px;
-  display: block;
+  display: fixed;
   top: 0;
   left: 0;
 }
@@ -132,6 +132,12 @@ h2 {
   font-size: 3vh;
   line-height: 5vh;
 }
+
+#about{
+  height: 50vh;
+  margin-top: 100px;
+}
+
 
 @keyframes blink {
   0% {
