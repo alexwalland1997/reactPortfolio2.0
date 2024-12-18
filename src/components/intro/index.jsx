@@ -1,3 +1,5 @@
+import { RiLinkedinFill, RiGithubFill } from "@remixicon/react";
+
 export default function Intro() {
   return (
     <div id="background">
@@ -16,6 +18,12 @@ export default function Intro() {
           <h1>Alexander Walland</h1>  
           <h2>Front-end Programmer</h2>
           <h2>HTML | CSS | Javascript</h2>
+          <a href="https://github.com/alexwalland1997" target="_blank">
+            <RiGithubFill size={30} className="profile" />
+          </a>
+          <a href="https://www.linkedin.com/in/alexander-walland-5020b4246/" target="_blank">
+            <RiLinkedinFill size={30} className="profile"/>
+          </a>
         </div>
         
     </div>
