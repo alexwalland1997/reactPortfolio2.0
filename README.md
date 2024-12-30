@@ -1,8 +1,33 @@
-# React + Vite
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+# React Portfolio 
+## Table of Contents 
+* [Description](#description) 
+* [Installation](#installation) 
+* [License](#license) 
+* [Contact](#contact) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    ## Description
+  
+    *The what, who, and why*
+  
+    This new and improved portfolio site was created with react to show off some of my projects to date as well as allow users to get in touch with me if needed.
 
-Currently, two official plugins are available:
+  ![alt text](https://raw.githubusercontent.com/alexwalland1997/reactPortfolio/main/images/portfolio.png)
+    
+    ## Installation
+    *Instructions on how to install the project and run it*
+  
+  Please visit  to view the site alternatively install repo and do npm install then npm run dev to view in local files.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ## License
+
+   *The project is protected by the following license*
+  
+    MIT License
+    ## Contact
+  *You can contact me through the following*
+  
+    Github: alexwalland1997 
+
+    Email: alexanderwalland@gmail.com
+    
