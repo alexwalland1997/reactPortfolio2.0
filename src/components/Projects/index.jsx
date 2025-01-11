@@ -4,6 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 export default function Projects() {
+  //settings for the carousel from react slick
   const settings = {
     dots: false,
     lazyLoad: true,
@@ -19,6 +20,7 @@ export default function Projects() {
       <div id="Projects">
         <div className="slider-container">
           <Slider {...settings}>
+            {/*temporary carousel to show off projects will look at creating my own*/}
             <div id="container">
               <img src="https://raw.githubusercontent.com/alexwalland1997/wordleclone/refs/heads/master/image/wordle.png" />
               <h3>Wordle Clone</h3>

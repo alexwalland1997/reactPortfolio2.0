@@ -30,6 +30,7 @@ export default function Navbar() {
     <nav>
       <img src="src\images\logo.png" />
       <div id="navigation">
+         {/*adds underline if selected depending on state*/}
         {selected == "0" ? (
           <a className="selected">About</a>
         ) : (
@@ -57,6 +58,7 @@ export default function Navbar() {
             </a>
           </AnchorLink>
         )}
+         {/*dark mode feature to allow for logo to change and page to change background colour*/}
         {theme == "light" ? (
           <RiLightbulbFill onClick={() => changeTheme()} className="icon" />
         ) : (

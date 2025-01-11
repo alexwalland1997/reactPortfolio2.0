@@ -5,7 +5,7 @@ export default function Intro() {
     <div id="background">
       <div id="terminal">
         <p>C:/Users/alexanderwalland/</p>
-        <p>> npx create-react-app Portfolio</p>
+        <p>> npm create vite@latest portfolio --template</p>
         <p>> cd portfolio</p>
         <p> > git init</p>
         <p>> git add .</p>
