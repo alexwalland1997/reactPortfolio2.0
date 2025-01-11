@@ -28,7 +28,7 @@ export default function Navbar() {
 
   return (
     <nav>
-      <img src="src\images\logo.png" />
+      <img src="https://raw.githubusercontent.com/alexwalland1997/reactPortfolio/refs/heads/main/images/logo.png" />
       <div id="navigation">
          {/*adds underline if selected depending on state*/}
         {selected == "0" ? (
